@@ -43,8 +43,3 @@ Entrega Esperada
 •	Utilizar comentários explicativos e seguir convenções de nomenclatura.
 •	Um arquivo README explicando o funcionamento do sistema e as instruções para rodar o código.
 ________________________________________
-Dicas para o Estagiário
-•	Comece pelo diagrama de classes para planejar o sistema.
-•	Desenvolva de forma iterativa: implemente uma funcionalidade por vez.
-•	Use testes manuais no início (pode adicionar JUnit no futuro, se for adequado).
-Se precisar de ajuda com o detalhamento do diagrama de classes ou exemplos de código, é só pedir! 😊
